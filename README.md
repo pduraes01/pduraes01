@@ -1,4 +1,4 @@
-## Vai Corinthians
+## Sejam bem vindos!
 
 <!--
 **pduraes01/pduraes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
